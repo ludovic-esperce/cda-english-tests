@@ -1,4 +1,4 @@
-# English quiz training
+# English test training
 
 ## Entraînement à la certification
 
