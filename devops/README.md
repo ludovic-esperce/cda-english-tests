@@ -26,20 +26,20 @@ to meet the business needs of internal and external users.
 ```
 
 1. (MCQ) What are the main principles of DevOps?
-  - [] collaborative work through shared ownership
-  - [] quick feedback about systems' issues
-  - [] development and deployment workflow automation
-  - [] insurance of a good software architecture
+  - [ ] collaborative work through shared ownership
+  - [ ] quick feedback about systems' issues
+  - [ ] development and deployment workflow automation
+  - [ ] insurance of a good software architecture
 
 2. (MCQ) According to Neal Ford, what are the advantages of DevOps?
-  - [] It encourages to setup test automation processes
-  - [] It allows dev teams to quickly track bugs
-  - [] It allows to continuously deploy application
-  - [] It makes unit tests programming easier
+  - [ ] It encourages to setup test automation processes
+  - [ ] It allows dev teams to quickly track bugs
+  - [ ] It allows to continuously deploy application
+  - [ ] It makes unit tests programming easier
 
 3. (MCQ) What's one of the main goal of DevOps according to CSIRO and SEI?
-  - [] reduce the time for a system change to reach production
-  - [] make the devs and system administrators friends again
-  - [] increase happiness in dev teams
+  - [ ] reduce the time for a system change to reach production
+  - [ ] make the devs and system administrators friends again
+  - [ ] increase happiness in dev teams
 
 4. (Open-ended question - max 10 lines) According to your knowlegde and the texts above, could you define what the "ops" means in DevOps?
